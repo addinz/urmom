@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Vamplicity/uni-silentaim/main/Uni-Silent.txt"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/addinz/urmom/main/preset"))()
 Aiming.TeamCheck(false)
 
 
